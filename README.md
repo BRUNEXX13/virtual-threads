@@ -1,9 +1,9 @@
 # java-virtual-threads-example
 
-Para rodar os testes, basta apenas executar o método main de cada classe de execução:
+To run the tests, simply execute the main method of each execution class:
 
-#### Execução sem controle de threads: ``br.com.ss.ExecutionStandard.main``
+#### Execution without thread control: ``br.com.ss.ExecutionStandard.main``
 
-#### Execução com pool de threads definido: ``br.com.ss.ExecucaoThreadPool.main``
+#### Execution with defined thread pool ``br.com.ss.ExecucaoThreadPool.main``
 
-#### Execução com Virtual Threads: ``br.com.ss.ExecucaoVirtualThreads.main``
+#### Execution with Virtual Threads: ``br.com.ss.ExecucaoVirtualThreads.main``
