@@ -7,6 +7,7 @@
   #### Execution with defined thread pool ``br.com.ss.ExecucaoThreadPool.main``
   
   #### Execution with Virtual Threads: ``br.com.ss.ExecucaoVirtualThreads.main``
+  _____________________________________________________________________________________________________________________________________________________________________________________________________________________
   
   🚀 Java Virtual Threads: a paradigm shift in concurrency 
   
